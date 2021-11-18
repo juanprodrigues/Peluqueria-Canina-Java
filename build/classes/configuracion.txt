@@ -1,0 +1,4 @@
+admin: root
+pass: root
+nombre de la base de datos: peluqueriacanina
+persistencia: peluqueriaPU
